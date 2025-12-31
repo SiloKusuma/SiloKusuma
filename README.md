@@ -14,8 +14,6 @@ If you want to give encouragement in the form of coffee or money, click here.
 
 <a href='https://ko-fi.com/F1F219JTXB' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-social media
+## Social Media
 
-Twitter: SiloKusuma |
-Youtube: SiloKusuma1 |
-Tiktok: @silokusumasukses
+<a href='https://ko-fi.com/F1F219JTXB' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
