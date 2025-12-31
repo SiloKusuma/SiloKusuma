@@ -7,6 +7,7 @@ I am a student interested in programming.
 ```txt
 HTML   30 mins         █████████████████▓░░░░░░░   70 %
 PHP   40 mins         ████████████▒░░░░░░░░░░░░   48.91 %
+Python   50 mins         ██████████████▒░░░░░░░░░░   48.91 %
 ```
 
 
