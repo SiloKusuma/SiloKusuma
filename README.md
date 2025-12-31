@@ -17,4 +17,4 @@ If you want to give encouragement in the form of coffee or money, click here.
 ## Social Media
 
 <a href='https://www.youtube.com/@SiloKusuma1' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png' border='0' alt='Youtube' /></a>
-<a href='https://github.com/SiloKusuma' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg' border='0' alt='Youtube' /></a>
+<a href='https://github.com/SiloKusuma' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://www.nopcommerce.com/images/thumbs/0019696_github-authentication.png' border='0' alt='Youtube' /></a>
