@@ -1,5 +1,5 @@
 # <summary><strong>Hi there :wave: , My name is Silo Kusuma!</strong></summary>
-Hello friends, I'm a student who loves technology and coding. I live in Indonesia.
+Hello friends, I'm a junior high school student who loves technology and coding. I live in Central Java, Indonesia.
 
 
  **I like languages:**
