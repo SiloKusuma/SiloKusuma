@@ -4,11 +4,7 @@ I am a student interested in programming.
 
  **this year i spent my time on:**
 
-```txt
-HTML   30 mins         █████████████████▓░░░░░░░   70 %
-PHP   40 mins          ████████████▒░░░░░░░░░░░░   48.91 %
-Python   50 mins       ██████████████▒░░░░░░░░░░   48.91 %
-```
+<a href='https://camo.githubusercontent.com/2aa396134cff5496aae9f8c8c4c43ac5e62b29e5d5d3da5f8a992566b400e416/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d2532334544384230302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://camo.githubusercontent.com/2aa396134cff5496aae9f8c8c4c43ac5e62b29e5d5d3da5f8a992566b400e416/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d2532334544384230302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465' border='0' alt='Windows' /></a>
 
 I like to study those languages ​​when I have free time.
 
