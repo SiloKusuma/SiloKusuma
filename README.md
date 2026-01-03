@@ -1,5 +1,5 @@
 # <summary><strong>Hi there :wave: , My name is Silo Kusuma!</strong></summary>
-I am a student interested in programming.
+Hello friends, I'm a student who loves technology and coding. I live in Indonesia.
 
 
  **I like languages:**
