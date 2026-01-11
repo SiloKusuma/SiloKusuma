@@ -1,4 +1,4 @@
-# <summary><strong>Ngoding dulu :wave: , tidur nya belakangan</strong></summary>
+# <summary><strong>Halo cuy :wave:  </strong></summary>
 Hello friends, I am a junior high school student, I have always liked technology and now I am studying coding, how a program can run with code using a programming language.
 
 
