@@ -14,7 +14,6 @@ I like to study those languages ​​when I have free time. you can support me 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SiloKusuma&theme=transparent" />
   </a>
 </p>
-<table><tr><td valign="top" width="33%">
 
 ### Frontend
 <div align="center">
