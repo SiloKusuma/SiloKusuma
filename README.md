@@ -1,11 +1,6 @@
 # <summary><strong>Halo cuy :wave:  </strong></summary>
 Hello, my name is Silo Kusuma. I'm an Indonesian student. I'm interested in learning the basics of programming and learning how computers work.
 
-
-**What I will learn**
-
-<a href='https://camo.githubusercontent.com/63ad000ea2a96e91670896dea4c2a395f7e66e1c907a75988a383be44135c1cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2532302d2532333134333534432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://camo.githubusercontent.com/63ad000ea2a96e91670896dea4c2a395f7e66e1c907a75988a383be44135c1cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2532302d2532333134333534432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465' border='0' alt='Python' /></a>
-
 I like to study those languages ​​when I have free time. you can support me by giving star to my repository
 
 ### Frontend
@@ -41,19 +36,6 @@ I like to study those languages ​​when I have free time. you can support me 
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
-### DevOps
-<div align="center">
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
-
-
-</div>
 
 </td></tr></table>
 
