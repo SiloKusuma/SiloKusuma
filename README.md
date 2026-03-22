@@ -3,6 +3,19 @@ Hello, my name is Silo Kusuma. I'm an Indonesian student. I'm interested in lear
 
 I like to study those languages ​​when I have free time. you can support me by giving star to my repository
 
+<p align="center">
+  <a href="https://github.com/SiloKusuma">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiloKusuma&theme=transparent" />
+  </a>
+  <a href="https://github.com/SiloKusuma">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiloKusuma&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/SiloKusuma">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SiloKusuma&theme=transparent" />
+  </a>
+</p>
+<table><tr><td valign="top" width="33%">
+
 ### Frontend
 <div align="center">
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
