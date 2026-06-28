@@ -10,7 +10,7 @@ I like to study those languages ​​when I have free time. you can support me 
 </p>
 
 ### Frontend
-<div align="center">
+<div>
 <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,vue,react,tailwind,ts,js,html" />
 </div>
 
@@ -19,15 +19,15 @@ I like to study those languages ​​when I have free time. you can support me 
 
 
 ### Backend
-<div align="center">
+<div>
 <img src="https://skillicons.dev/icons?i=php,nodejs,express" />
 </div>
 
 </td><td valign="top" width="33%">
 
-### Fullstack 
+### Database
 <div>
-<img src="https://skillicons.dev/icons?i=kotlin,cpp,cs,php,nodejs,express,java,nuxt,nextjs,tailwind,ts,js,html" />
+<img src="https://skillicons.dev/icons?i=sqllite,mysql" />
 </div>
 
 </td><td valign="top" width="33%">
