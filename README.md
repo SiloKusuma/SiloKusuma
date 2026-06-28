@@ -27,7 +27,7 @@ I like to study those languages ​​when I have free time. you can support me 
 
 ### Database
 <div>
-<img src="https://skillicons.dev/icons?i=sqllite,mysql" />
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" />
 </div>
 
 </td><td valign="top" width="33%">
