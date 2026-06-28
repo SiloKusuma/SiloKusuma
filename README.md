@@ -26,7 +26,7 @@ I like to study those languages ​​when I have free time. you can support me 
 </td><td valign="top" width="33%">
 
 ### Fullstack 
-<div align="center">
+<div>
 <img src="https://skillicons.dev/icons?i=kotlin,cpp,cs,php,nodejs,express,java,nuxt,nextjs,tailwind,ts,js,html" />
 </div>
 
