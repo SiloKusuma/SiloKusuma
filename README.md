@@ -11,14 +11,14 @@ I like to study those languages ​​when I have free time. you can support me 
 
 ### Frontend
 <div>
-<img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,vue,react,tailwind,ts,js,html,angular,svelte" />
+<img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,vue,react,tailwind,ts,js,html,angular,svelte,latex" />
 </div>
 
 </td><td valign="top" width="33%">
 
 ### Backend
 <div>
-<img src="https://skillicons.dev/icons?i=php,nodejs,express,python,go,cs,rust" />
+<img src="https://skillicons.dev/icons?i=php,nodejs,express,python,go,cs,rust,laravel" />
 </div>
 
 </td><td valign="top" width="33%">
