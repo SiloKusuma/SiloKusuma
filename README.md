@@ -7,12 +7,6 @@ I like to study those languages ​​when I have free time. you can support me 
   <a href="https://github.com/SiloKusuma">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiloKusuma&theme=transparent" />
   </a>
-  <a href="https://github.com/SiloKusuma">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiloKusuma&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/SiloKusuma">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SiloKusuma&theme=transparent" />
-  </a>
 </p>
 
 ### Frontend
