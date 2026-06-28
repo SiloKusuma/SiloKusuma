@@ -11,7 +11,7 @@ I like to study those languages ​​when I have free time. you can support me 
 
 ### Frontend
 <div>
-<img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,vue,react,tailwind,ts,js,html" />
+<img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,vue,react,tailwind,ts,js,html,angular,svelte" />
 </div>
 
 </td><td valign="top" width="33%">
