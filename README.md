@@ -18,7 +18,7 @@ I like to study those languages ​​when I have free time. you can support me 
 
 ### Backend
 <div>
-<img src="https://skillicons.dev/icons?i=php,nodejs,express,python,go,cs" />
+<img src="https://skillicons.dev/icons?i=php,nodejs,express,python,go,cs,rust" />
 </div>
 
 </td><td valign="top" width="33%">
