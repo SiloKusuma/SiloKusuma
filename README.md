@@ -11,12 +11,10 @@ I like to study those languages ​​when I have free time. you can support me 
 
 ### Frontend
 <div>
-<img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,vue,react,tailwind,ts,js,html,vite" />
+<img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,vue,react,tailwind,ts,js,html" />
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend
 <div>
@@ -27,7 +25,7 @@ I like to study those languages ​​when I have free time. you can support me 
 
 ### Database
 <div>
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,postgres" />
 </div>
 
 </td><td valign="top" width="33%">
