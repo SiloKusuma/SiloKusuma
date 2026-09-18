@@ -1,4 +1,4 @@
-# <summary><strong>Halo gan! :wave:  🇨🇳 🇯🇵</strong></summary>
+# <summary><strong>Halo gan! :wave :cn :jp</strong></summary>
 Hello, my name is Silo Kusuma. I'm an Indonesian student. I'm interested in learning the basics of programming and learning how computers work.
 
 I like to study those languages ​​when I have free time. you can support me by giving star to my repository
