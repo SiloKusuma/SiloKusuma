@@ -1,4 +1,5 @@
-# <summary><strong>Halo gan! :wave: 🇨🇳 p</strong></summary>
+# <summary><strong>Halo gan! :wave: <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1e8-1f1f3.png" width="20">
+    <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1ef-1f1f5.png" width="20"></strong></summary>
 Hello, my name is Silo Kusuma. I'm an Indonesian student. I'm interested in learning the basics of programming and learning how computers work.
 
 I like to study those languages ​​when I have free time. you can support me by giving star to my repository
