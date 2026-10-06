@@ -4,7 +4,7 @@ Hello, my name is Silo Kusuma. I'm an Indonesian student. I'm interested in lear
 I like to study those languages ​​when I have free time. you can support me by giving star to my repository
 
 Portofolio: silokusuma.top
-Blog Pribadi: blogsilokusuma.vercel.app
+|| Blog Pribadi: blogsilokusuma.vercel.app
 
 <p align="center">
   <a href="https://github.com/SiloKusuma">
